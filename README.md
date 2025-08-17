@@ -83,7 +83,7 @@
 4. All testers for early testing of the project.
 
 # Feedback 
-If you find any bugs or want to add suggestions, please open a new [issue](https://github.com/zamansheikh/NThing-UI/issues/new) or text me on Telegram [@ZamanSheikh](https://t.me/ZamanSheikh)
+If you find any bugs or want to add suggestions, please open a new [issue](https://github.com/zamansheikh/NThing-UI/issues/new) or text me on Telegram [@ZamanSheikh](https://t.me/zamansheikh_error)
 
 **Do star this repo to show your support and share as well, means a lot**. Thanks, see yaa 💝
 
