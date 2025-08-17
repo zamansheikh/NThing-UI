@@ -10,9 +10,7 @@
 <h3 align="center">
 <a href="https://github.com/zamansheikh/NThing-UI/releases/latest">Download NThing UI</a>
 <br> </br>
-<p align="center"> <a href="https://github.com/zamansheikh/NThing-UI/releases/latest">Download NThing UI</a>
  
-
 <br> </br>
 
 <p align="center">
