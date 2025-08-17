@@ -30,7 +30,7 @@
 - **Clock:** Shows time of your region with 6 different styles.
 - **Date:** Shows current date with 3 different styles.
 - **Weather:** Shows weather of your location with 4 different styles.
-- **Music:** Displays current music playing along with album art, song and artist name with 4 different styles.
+- **Music:** Displays current music playing along with album art, song and artist name with 4 different styles + Circular Equalizer visualizer.
 - **Battery:** Displays current battery level of your pc, along with some more battery related info with 4 different styles.
 - **Events:** Shows upcoming holiday events along with their dates and time with 4 different styles.
 - **Monitor:** Shows status of RAM, CPU, HDD and SWAP memory with 7 different styles.
