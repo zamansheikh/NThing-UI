@@ -21,13 +21,8 @@
 
 <p align="center">
   <a href="https://t.me/zamansheikh">
-    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=303038&colorB=d4d3d8&logo=telegram&logoColor=cad3f5&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fzamansheikh"
-  alt="Telegram">
-<a href="https://t.me/zamansheikh">
-    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=303038&colorB=d4d3d8&logo=telegram&logoColor=cad3f5&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fzamansheikh"
-        alt="Telegram"> </a>
-  </p>
-    </a>
+    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=303038&colorB=d4d3d8&logo=telegram&logoColor=cad3f5&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fzamansheikh" alt="Telegram">
+  </a>
 </p>
 
 # Features of NThing UI
