@@ -1,12 +1,16 @@
 [Variables]
-; Weather Variables
-Scale=1
-ImagePath=#@#Images\Nothing\
 
-; Additional Variables
-StringAlign=left
-StringStyle=Normal
-StringCase=None
-StringEffect=Shadow
-FontEffectColor=0,0,0,50
-FontSize=(9*#Scale#)
+FontColor=255,166,166
+Scale=250
+;===================
+;Translate Langauge
+;===================
+
+Low Tonight=Low Tonight
+Feels Like=Feels Like
+Humidity=Humidity
+Sunrise=Sunrise
+Sunset=Sunset
+Visibility=Visibility
+Wind=Wind
+UV Index=UV Index
