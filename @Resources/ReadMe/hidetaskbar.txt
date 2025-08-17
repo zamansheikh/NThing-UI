@@ -1,0 +1,7 @@
+~ If you have clicked Hide taskbar option in Extras settings, then script will be successfully running
+
+~ To hide taskbar, press ctrl+Q keys
+
+~ To unhide it, press these keys again.
+
+~ to stop the script, right click on H icon in quick panel settings (small arrow on left of date in windows default taskbar) 
